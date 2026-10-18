@@ -1,6 +1,6 @@
-# ☁️ CloudNotes — Cloud Computing Project
+# ☁️ CloudNotes — Cloud Project
 
-A full-stack Notes application built to demonstrate core cloud computing concepts:
+A full-stack Notes application built to demonstrate core cloud concepts:
 REST API design, cloud database hosting (MongoDB Atlas), containerization (Docker),
 authentication (JWT), and deployment to a cloud platform (AWS / Render / Heroku / Azure).
 
